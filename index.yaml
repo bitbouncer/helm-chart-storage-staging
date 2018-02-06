@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   elk:
   - apiVersion: v1
-    created: 2018-02-06T22:11:54.447841101+01:00
+    created: 2018-02-06T22:11:58.515284102+01:00
     description: A Helm chart for Kubernetes
     digest: ad3630311f7eca2351b576461367d5106caf2fc6ce04fdf2009f4180de6c2097
     name: elk
@@ -11,7 +11,7 @@ entries:
     version: 0.0.1
   monasca-agent:
   - apiVersion: v1
-    created: 2018-02-06T22:11:54.447988409+01:00
+    created: 2018-02-06T22:11:58.51542637+01:00
     description: A Helm chart for Kubernetes
     digest: e8aed548c487b28198682530ab992a92075dfa9ce21fb7efeddc267b1e1782d7
     name: monasca-agent
@@ -20,7 +20,7 @@ entries:
     version: 0.0.1
   monasca-api:
   - apiVersion: v1
-    created: 2018-02-06T22:11:54.448127717+01:00
+    created: 2018-02-06T22:11:58.515559176+01:00
     description: A Helm chart for Kubernetes
     digest: 03668d82e18646b3833472e98f787598184c6b8668a554cfbccc5716c6234c95
     name: monasca-api
@@ -29,7 +29,7 @@ entries:
     version: 0.0.1
   monasca-notification:
   - apiVersion: v1
-    created: 2018-02-06T22:11:54.448238108+01:00
+    created: 2018-02-06T22:11:58.515689025+01:00
     description: A Helm chart for Kubernetes
     digest: dfd5869ef621a8e94261f8f05ff913e0985a3da93a65e0a2616997697a4350ea
     name: monasca-notification
@@ -38,7 +38,7 @@ entries:
     version: 0.0.1
   monasca-persister:
   - apiVersion: v1
-    created: 2018-02-06T22:11:54.448345275+01:00
+    created: 2018-02-06T22:11:58.515796734+01:00
     description: A Helm chart for Kubernetes
     digest: 2f0b753a67c29486fe40d263b01f90dfbb236974d8a88b1a408d6d3bb1985776
     name: monasca-persister
@@ -47,7 +47,7 @@ entries:
     version: 0.0.1
   monasca-threshold:
   - apiVersion: v1
-    created: 2018-02-06T22:11:54.448548125+01:00
+    created: 2018-02-06T22:11:58.516001214+01:00
     description: A Helm chart for Kubernetes
     digest: 44e3ffbdb6746dc7442dacb915e27b22fe7dc8e4bce71e815f5e44c312c4f606
     name: monasca-threshold
@@ -55,7 +55,7 @@ entries:
     - monasca-threshold-0.1.0.tgz
     version: 0.1.0
   - apiVersion: v1
-    created: 2018-02-06T22:11:54.448448054+01:00
+    created: 2018-02-06T22:11:58.51590261+01:00
     description: A Helm chart for Kubernetes
     digest: ee84ab17e58aa6d862307e6f0d1ef7b84e67e2c4834a4ccd6931674ba0170f26
     name: monasca-threshold
@@ -64,7 +64,7 @@ entries:
     version: 0.0.1
   omega-proxy:
   - apiVersion: v1
-    created: 2018-02-06T22:11:54.448684961+01:00
+    created: 2018-02-06T22:11:58.516132376+01:00
     description: A Helm chart for Kubernetes
     digest: e71a8781676c2df6aa715bb19d4a143d93ca7650e24b06e0ddd7ff42edaffb7c
     name: omega-proxy
@@ -73,11 +73,11 @@ entries:
     version: 0.0.1
   storm:
   - apiVersion: v1
-    created: 2018-02-06T22:11:54.448836163+01:00
+    created: 2018-02-06T22:11:58.51625567+01:00
     description: A Helm chart for Kubernetes
     digest: edb01d2dc68644780e98af68d4d48b7dd187619c538d0a3e49c0eab5b3d52429
     name: storm
     urls:
     - storm-0.0.1.tgz
     version: 0.0.1
-generated: 2018-02-06T22:11:54.447443695+01:00
+generated: 2018-02-06T22:11:58.514878312+01:00
