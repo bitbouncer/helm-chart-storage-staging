@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  monasca-api:
+  - apiVersion: v1
+    created: 2018-02-06T21:08:58.427990566+01:00
+    description: A Helm chart for Kubernetes
+    digest: 03668d82e18646b3833472e98f787598184c6b8668a554cfbccc5716c6234c95
+    name: monasca-api
+    urls:
+    - monasca-api-0.0.1.tgz
+    version: 0.0.1
+generated: 2018-02-06T21:08:58.427783464+01:00
