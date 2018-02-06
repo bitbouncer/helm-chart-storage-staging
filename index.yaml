@@ -2,11 +2,47 @@ apiVersion: v1
 entries:
   monasca-api:
   - apiVersion: v1
-    created: 2018-02-06T21:09:02.351398651+01:00
+    created: 2018-02-06T21:18:18.137629562+01:00
     description: A Helm chart for Kubernetes
     digest: 03668d82e18646b3833472e98f787598184c6b8668a554cfbccc5716c6234c95
     name: monasca-api
     urls:
     - monasca-api-0.0.1.tgz
     version: 0.0.1
-generated: 2018-02-06T21:09:02.351178904+01:00
+  monasca-notification:
+  - apiVersion: v1
+    created: 2018-02-06T21:18:18.137744643+01:00
+    description: A Helm chart for Kubernetes
+    digest: dfd5869ef621a8e94261f8f05ff913e0985a3da93a65e0a2616997697a4350ea
+    name: monasca-notification
+    urls:
+    - monasca-notification-0.0.1.tgz
+    version: 0.0.1
+  monasca-persister:
+  - apiVersion: v1
+    created: 2018-02-06T21:18:18.137854931+01:00
+    description: A Helm chart for Kubernetes
+    digest: 2f0b753a67c29486fe40d263b01f90dfbb236974d8a88b1a408d6d3bb1985776
+    name: monasca-persister
+    urls:
+    - monasca-persister-0.0.1.tgz
+    version: 0.0.1
+  monasca-threshold:
+  - apiVersion: v1
+    created: 2018-02-06T21:18:18.137956306+01:00
+    description: A Helm chart for Kubernetes
+    digest: 44e3ffbdb6746dc7442dacb915e27b22fe7dc8e4bce71e815f5e44c312c4f606
+    name: monasca-threshold
+    urls:
+    - monasca-threshold-0.1.0.tgz
+    version: 0.1.0
+  storm:
+  - apiVersion: v1
+    created: 2018-02-06T21:18:18.138079037+01:00
+    description: A Helm chart for Kubernetes
+    digest: edb01d2dc68644780e98af68d4d48b7dd187619c538d0a3e49c0eab5b3d52429
+    name: storm
+    urls:
+    - storm-0.0.1.tgz
+    version: 0.0.1
+generated: 2018-02-06T21:18:18.13740617+01:00
